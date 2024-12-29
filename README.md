@@ -1,8 +1,8 @@
-# Sistema de Gerenciamento de Clientes com Cálculo de IMC
+# 📊 Sistema de Gerenciamento de Clientes com Cálculo de IMC
 
 Este projeto é um sistema simples para gerenciar o cadastro de clientes em um banco de dados SQLite e calcular o Índice de Massa Corporal (IMC) dos clientes cadastrados.
 
-## Funcionalidades
+## 👥🔍Funcionalidades
 
 1. **Criação de tabela**: Garante que a tabela de clientes seja criada no banco de dados.
 2. **Cadastro de clientes**:
@@ -17,7 +17,7 @@ Este projeto é um sistema simples para gerenciar o cadastro de clientes em um b
 
 ---
 
-## Como Usar
+## 🛠️ Como Usar
 
 ### 1. Instalação de Dependências
 
@@ -56,7 +56,7 @@ O usuário Ana tem IMC = 23.44
 
 ---
 
-## Estrutura do Código
+## 🛠️ Estrutura do Código
 
 ### Funções Principais
 
@@ -71,7 +71,7 @@ O usuário Ana tem IMC = 23.44
 
 ---
 
-## Requisitos
+## 📋 Requisitos
 
 - **Python 3.x**
 - **SQLite3**
