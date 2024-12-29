@@ -2,6 +2,8 @@
 
 Este projeto é um sistema simples para gerenciar o cadastro de clientes em um banco de dados SQLite e calcular o Índice de Massa Corporal (IMC) dos clientes cadastrados.
 
+
+
 ## 👥🔍Funcionalidades
 
 1. **Criação de tabela**: Garante que a tabela de clientes seja criada no banco de dados.
