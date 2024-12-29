@@ -4,7 +4,7 @@ Este projeto é um sistema simples para gerenciar o cadastro de clientes em um b
 
 
 
-## 👥🔍Funcionalidades
+## 🔍Funcionalidades
 
 1. **Criação de tabela**: Garante que a tabela de clientes seja criada no banco de dados.
 2. **Cadastro de clientes**:
